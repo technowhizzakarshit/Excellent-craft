@@ -1,9 +1,4 @@
 
-
-class b(){
-	echowelcome"
-}
-
 class A (){
 echo "welcome to class A"
 }
