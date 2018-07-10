@@ -3,3 +3,5 @@
 class b(){
 	echo "welcome class b"
 }
+class c{
+welcome c}dsadadsadsadsadsads
