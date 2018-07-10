@@ -1,4 +1,10 @@
 
+
 class b(){
 	echo "welcome b"
 }
+
+class A (){
+echo "welcome to class A"
+}
+
