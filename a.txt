@@ -1,10 +1,5 @@
 
 
 class b(){
-	echo " new welcome"
+	echo "welcome"
 }
-
-class A (){
-echo "welcome to class A"
-}
-
