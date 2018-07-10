@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-<?php 
-echo "hello ";
-?>
-=======
 
 
 class b(){
@@ -13,4 +8,3 @@ class A (){
 echo "welcome to class A"
 }
 
->>>>>>> 6b9cf9b409809832d1e31a2457755ee700f867fa
