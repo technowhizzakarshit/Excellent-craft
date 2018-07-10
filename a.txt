@@ -1,11 +1,20 @@
 
 
 class b(){
-	echo " new welcome"
-}
+	echo "welcome class b"
+
 
 class A (){
-echo "welcome to class A"
+ech owelcomeqwerrtt;
 }
+class D (){
 
+<<<<<<< HEAD
 sdsasdsdsddsadasdsd
+=======
+echo "welcome to class D"
+
+}
+class c{
+welcome c}dsadadsadsadsadsads
+>>>>>>> c81cfc06174a59200f7fec5cfefb28ddb0c053b0
