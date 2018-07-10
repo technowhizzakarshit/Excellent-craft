@@ -1,7 +1,7 @@
 
 
 class b(){
-	echo " new welcome b"
+	echo " new welcome"
 }
 
 class A (){
