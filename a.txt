@@ -1,5 +1,5 @@
 
 
 class b(){
-	echo "welcome"
+	echo "welcome class b"
 }
