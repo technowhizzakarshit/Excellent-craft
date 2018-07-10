@@ -1,6 +1,4 @@
 
-
-from branch test gurpreet..
-
-akarshit.
-
+class b(){
+	echo "welcome b"
+}
