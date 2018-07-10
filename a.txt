@@ -1,2 +1,7 @@
 
+<<<<<<< HEAD
 from branch test from gurpreet..
+=======
+from branch test 
+gurpreet
+>>>>>>> 5f429c7e73775ac1fc859b7f57ba0447049284a9
