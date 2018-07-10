@@ -3,3 +3,11 @@
 class b(){
 	echo "welcome class b"
 }
+
+class A (){
+ech owelcomeqwerrtt;
+}
+class D (){
+
+echo "welcome to class D"
+}
